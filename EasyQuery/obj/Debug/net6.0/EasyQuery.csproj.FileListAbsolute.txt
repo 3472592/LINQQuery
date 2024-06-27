@@ -1,0 +1,15 @@
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\bin\Debug\net6.0\EasyQuery.exe
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\bin\Debug\net6.0\EasyQuery.deps.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\bin\Debug\net6.0\EasyQuery.runtimeconfig.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\bin\Debug\net6.0\EasyQuery.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\bin\Debug\net6.0\EasyQuery.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\obj\Debug\net6.0\EasyQuery.csproj.AssemblyReference.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\obj\Debug\net6.0\EasyQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\obj\Debug\net6.0\EasyQuery.AssemblyInfoInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\obj\Debug\net6.0\EasyQuery.AssemblyInfo.cs
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\obj\Debug\net6.0\EasyQuery.csproj.CoreCompileInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\obj\Debug\net6.0\EasyQuery.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\obj\Debug\net6.0\refint\EasyQuery.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\obj\Debug\net6.0\EasyQuery.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\obj\Debug\net6.0\EasyQuery.genruntimeconfig.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\EasyQuery\obj\Debug\net6.0\ref\EasyQuery.dll
